@@ -1,0 +1,17 @@
+@import "../../../../theme/sass/conf/conf";
+.modal-buttons .btn {
+    margin-right: 20px;
+}
+
+.modal-content {
+    color: $dropdown-text;
+}
+
+.dark-modal .modal-content {
+    background-color: #5687c1;
+    color: white;
+}
+
+.dark-modal .close {
+    color: white;
+}
