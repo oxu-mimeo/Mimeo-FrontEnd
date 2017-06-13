@@ -1,5 +1,5 @@
 
-#Mimeo OA is inorder to improve the work efficiency to Team, and we use the Admin-ng2 template to build our front-end Application
+# Mimeo OA is inorder to improve the work efficiency to Team, and we use the Admin-ng2 template to build our front-end Application
 
 # Admin panel framework based on Angular 2, Bootstrap 4 and Webpack
 
